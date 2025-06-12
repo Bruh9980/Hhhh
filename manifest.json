@@ -1,7 +1,7 @@
 {
   "name": "Portofolio Horus",
   "short_name": "Horus",
-  "start_url": "./index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "orientation": "landscape",
   "background_color": "#121212",
